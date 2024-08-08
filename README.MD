@@ -1,6 +1,6 @@
 A recreation of Link's Treehouse from The Legend of Zelda: Ocarina of Time made using OpenGL and C++.
 
-
+![A test image](/Users/michaelsalton/Desktop/42441.png)
 
 ## Installation
 
